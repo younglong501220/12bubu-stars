@@ -1,0 +1,6 @@
+{
+  "name": "一二布布：摘星大冒險",
+  "description": "治癒系溫馨小跳台遊戲——操縱軟萌的布布在溫柔的雲海中摘星攀登，抵達月亮頂峰與一二甜蜜相會！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
